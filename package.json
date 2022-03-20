@@ -2,7 +2,7 @@
   "name": "formulario-val",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://kevin-hu22.github.io/FormularioReact/",
+  "homepage": "http://kevin-hu22.github.io/FormularioReact/",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.1.0",
     "@fortawesome/free-regular-svg-icons": "^6.1.0",
